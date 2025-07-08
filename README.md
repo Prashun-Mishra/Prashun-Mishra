@@ -72,7 +72,7 @@
 
 ## 📜 Certifications & Achievements
 
-- 🎓 Pregrad + Nextwave CCBP 4.0 Web Dev Graduate  
+- 🎓  Nextwave CCBP 4.0 Academy Student 
 - 🏆 Top 30 Innovator – *Hack The Space 2.0 (SSTC Bhilai)*  
 - 🔧 Project Lead on BITBOOK & GenAI flashcard builder  
 
