@@ -14,7 +14,7 @@
 
 > ⚡ Passionate Developer | MERN Stack Artist | Inspired by Anime Worlds 🌍
 
-- 🎓 3rd Year BTech CSE @ **Bhilai Institute of Technology**
+- 🎓 4th Year BTech CSE @ **Bhilai Institute of Technology**
 - 💻 Full Stack Dev (React + Node + Express + Mongo/Postgres)
 - 🔧 I build interactive apps, developer tools, portfolios, AI interfaces
 - ✨ Creator of [Time Travel Portfolio](https://time-travel-portfolio.vercel.app/)
